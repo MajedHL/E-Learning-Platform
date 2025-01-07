@@ -1,0 +1,6 @@
+[submodule "E-Learning-FrontEnd"]
+	path = E-Learning-FrontEnd
+	url = https://github.com/MajedHL/E-Learning-FrontEnd.git
+[submodule "E-Learning-BackEnd"]
+	path = E-Learning-BackEnd
+	url = https://github.com/MajedHL/E-Learning-BackEnd.git

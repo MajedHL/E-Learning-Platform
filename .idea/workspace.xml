@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53ef52a2-35c8-4d3d-b08a-07c5b584ff5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/controllers/EnrollmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/repositories/EnrollmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/services/EnrollmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/utils/MHException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/MhApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/MhApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/config/security/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/config/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/config/security/JwtTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/config/security/JwtTokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/config/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/config/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/controllers/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/controllers/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/repositories/CourseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/repositories/CourseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/services/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/services/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/services/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/services/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/java/com/mh/api/MhAPI/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/cours/cours.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/cours/cours.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/cours/cours.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/cours/cours.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/my-courses/my-courses.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/my-courses/my-courses.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/my-courses/my-courses.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/my-courses/my-courses.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/my-courses/my-courses.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/nav-bar/nav-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/nav-bar/nav-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/nav-bar/nav-bar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/nav-bar/nav-bar.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/register/register.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/register/register.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/auth.interceptor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/auth.interceptor.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/content.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/content.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/courses.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/courses.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/service.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/service.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/services/user.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/step/step.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/step/step.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/steps/steps.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/steps/steps.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/steps/steps.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/E-Learning-FrontEnd/src/app/validators/cours-validator.directive.spec.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BackEnd/E-Learning-BackEnd" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2iW7am9FvEuARYmWPRl4G3YZJUv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/E-Learning Platform/BackEnd/E-Learning-BackEnd"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ef52a2-35c8-4d3d-b08a-07c5b584ff5c" name="Changes" comment="" />
+      <created>1719594547415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719594547415</updated>
+    </task>
+    <servers />
+  </component>
+</project>
