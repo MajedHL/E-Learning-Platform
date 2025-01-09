@@ -1,13 +1,13 @@
 # E-Learning-Platform
 ## Description
 An online platform for learning.
-- Admins:
+- **Admins:**
   - Admins can create courses on the platform.
   - A course can include a combination of texts, images, and videos.
   - Admins can also create quizzes to evaluate students.
-- Students:
+- **Students:**
   - Students can enroll in open courses, complete them, and take quizzes.
-- Guest users:
+- **Guest users:**
   - Guest users can view the available courses and their descriptions.
   - However, they cannot access course details until they register and enroll.
 
@@ -38,7 +38,7 @@ To update the submodules to the latest commit from their remote repository run t
 ```
 git submodule update --remote
 ```
-To pull the latest changes from the super repository and update all submodules to the specific commits they are pointing to in the super repository.:
+To pull the latest changes from the super repository and update all submodules to the specific commits they are pointing to in the super repository:
 ```
 git pull --recurse-submodules
 ```
